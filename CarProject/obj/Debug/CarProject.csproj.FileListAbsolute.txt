@@ -1,0 +1,7 @@
+C:\Users\dayofpay\source\repos\CarProject\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\dayofpay\source\repos\CarProject\CarProject\bin\Debug\CarProject.exe
+C:\Users\dayofpay\source\repos\CarProject\CarProject\bin\Debug\CarProject.pdb
+C:\Users\dayofpay\source\repos\CarProject\CarProject\obj\Debug\CarProject.csprojAssemblyReference.cache
+C:\Users\dayofpay\source\repos\CarProject\CarProject\obj\Debug\CarProject.csproj.CoreCompileInputs.cache
+C:\Users\dayofpay\source\repos\CarProject\CarProject\obj\Debug\CarProject.exe
+C:\Users\dayofpay\source\repos\CarProject\CarProject\obj\Debug\CarProject.pdb
